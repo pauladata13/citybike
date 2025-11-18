@@ -1,2 +1,3 @@
 Este proyecto analiza un dataset de 20.400 viajes de Citi Bike correspondientes a los meses de enero, febrero y marzo de 2017.
- El objetivo es explorar el comportamiento de los usuarios, los usos y los patrones de los viajes
+
+El objetivo es explorar el comportamiento de los usuarios, los usos y los patrones de los viajes
